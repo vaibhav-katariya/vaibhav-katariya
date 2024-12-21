@@ -1,20 +1,21 @@
-  -- Hello everyone i am Vaibhav,
-  -- I am Full Stack Developer,
-  -- You can find me on Instagram - _coding__hub_ 
+# Hi there, I'm Vaibhav! 👋
 
--> Hi, I’m @vaibhav-katariya
+## About Me
+- 🚀 I’m a **Full Stack Developer** passionate about building web applications and exploring the world of programming.  
+- 🌱 Currently learning and mastering **Full Stack Development**.  
+- 🌟 Interested in **open source projects** and creating innovative solutions.  
 
--> I’m interested in open sourse and create new project 
+## Collaboration
+- 🤝 I’m looking to collaborate on exciting **open source projects**.  
 
--> I’m currently learning full stack development
+## Get in Touch
+- 📷 Find me on Instagram: [@_coding__hub_](https://instagram.com/_coding__hub_)  
+- 📫 How to reach me: DM me on Instagram!  
 
--> I’m looking to collaborate on open sourse 
+## Fun Facts
+- 🌍 Pronouns: **He/Him**  
+- 💡 I love contributing to tech communities and learning new technologies.
 
--> How to reach me : instagram id _coding__hub_
+---
 
--> Pronouns: he/him
-
-<!---
-vaibhav-katariya/vaibhav-katariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ Thanks for stopping by! Feel free to connect with me. 😊
